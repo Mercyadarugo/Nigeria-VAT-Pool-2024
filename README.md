@@ -43,7 +43,7 @@ This process ensured a clean, consistent, and analysis-ready dataset.
 
 ## 📊 Sample Dashboard
 
-![VAT POOL DASH](https://github.com/user-attachments/assets/c3a3a418-b417-4c62-8e02-32ff4298813d.jpg)
+![VAT POOL DASH](VAT POOL DASH.JPG)
 
 ---
 
