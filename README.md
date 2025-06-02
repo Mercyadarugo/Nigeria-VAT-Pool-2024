@@ -43,7 +43,7 @@ This process ensured a clean, consistent, and analysis-ready dataset.
 
 ## 📊 Sample Dashboard
 
-![VAT POOL DASH](VAT POOL DASH.JPG)
+![VAT POOL DASH]([VAT POOL DASH.JPG](https://github.com/Mercyadarugo/Nigeria-VAT-Pool-2024/blob/main/NIGERIA%20VAT%20POOL%202024.pbix))
 
 ---
 
